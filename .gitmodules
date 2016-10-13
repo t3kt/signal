@@ -1,6 +1,0 @@
-[submodule "shared"]
-	path = shared
-	url = https://github.com/t3kt/tektshared.git
-[submodule "core"]
-	path = core
-	url = https://github.com/t3kt/tektcore.git
